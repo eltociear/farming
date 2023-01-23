@@ -9,7 +9,7 @@ As a contributor, you are expected to fork this repository, work on your own for
 
 ## A typical workflow
 
-1) Before contributing any changes it a good practice to open an issue and provide the reasoning for the changes   
+1) Before contributing any changes it is a good practice to open an issue and provide the reasoning for the changes   
 1) Make sure your fork is up to date with the main repository
 2) Update all dependencies to the latest version
 	```
